@@ -4,12 +4,12 @@ Showing full list of confirmed and  Death cases of covid-19 in all over the worl
 
 Installing packages:
 
-In Ubutu- 
+# In Ubuntu- 
 
 Python 3  Version :-
 
-sudo apt install python3-pip
+* sudo apt install python3-pip
 
 Python 2  Version : -
 
-sudo apt install python-pip
+* sudo apt install python-pip
