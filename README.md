@@ -13,3 +13,9 @@ Python 3  Version :-
 Python 2  Version : -
 
 * sudo apt install python-pip
+
+# In Windows
+
+Follow the below instruction to install it.
+
+https://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows
